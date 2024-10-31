@@ -7,4 +7,4 @@
   * License: https://bootstrapmade.com/license/
 
 
-  ##__Note: This webpage is taken from bootstrapmade.com. I just customized it so the credits are gone to bootstrapmade but as i customized i also get :)__
+  __Note: This webpage is taken from bootstrapmade.com. I just customized it so the credits are gone to bootstrapmade but as i customized i also get :)__
